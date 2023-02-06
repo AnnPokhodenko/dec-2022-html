@@ -1,0 +1,28 @@
+h1{
+    background: skyblue;
+    color: white;
+    text-align: center;
+}
+
+h2{
+    background: lavender;
+    color: darkblue;
+}
+
+p{
+    background: aliceblue;
+    color: darkblue;
+}
+
+li{
+    background: lavender;
+    color: purple;
+}
+
+.pic{
+    width: 378px;
+}
+
+img {
+    width: 224px;
+}
