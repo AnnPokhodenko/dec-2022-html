@@ -1,0 +1,53 @@
+body {
+    display: flex;
+    justify-content: center;
+    margin: 160px auto;
+}
+
+#container {
+    height: 388px;
+    width: 970px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.box {
+    background: white;
+    height: 320px;
+    width: 280px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-sizing: border-box;
+    padding-top: 80px;
+    row-gap: 28px;
+    border: 2px solid #b2b2b2;
+}
+
+.cent {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.head {
+    width: 240px;
+    color: black;
+    font-size: x-large;
+}
+
+.text {
+    width: 230px;
+    font-size: large;
+    color: #999b9a;
+    text-align: center;
+}
+
+.learn {
+    width: 190px;
+    height: 44px;
+    font-size: large;
+    border: 1px solid black;
+    margin-top: 16px;
+}
