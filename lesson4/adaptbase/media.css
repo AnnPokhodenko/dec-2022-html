@@ -1,0 +1,71 @@
+@media screen and (max-width: 424px) {
+    #container {
+        width: 200px;
+    }
+
+    .wrap {
+        height: 230px;
+        width: 200px;
+    }
+
+    .card {
+        height: 141px;
+        width: 100px;
+        padding: 7px;
+    }
+
+    .bg {
+        font-size: small;
+    }
+
+    .med {
+        width: 81px;
+        border-radius: 5px;
+    }
+
+    .A, .right, .box {
+        height: 18px;
+        padding-top: 2px;
+    }
+
+    .under {
+        display: flex;
+        flex-direction: column;
+        row-gap: 8px;
+
+    }
+
+    .B {
+        height: 70px;
+        padding-top: 28px;
+        margin-top: 3px;
+    }
+
+    .sec, .H {
+        height: 43px;
+        padding-top: 15px;
+    }
+
+    .sec{
+        margin-top: 3px;
+    }
+
+    .triple {
+        column-gap: 13px;
+        margin-top: 8px;
+    }
+
+    .box {
+        width: 18px;
+        padding-top: 3px;
+        border-radius: 5px;
+    }
+
+    .coll {
+        justify-content: space-between;
+        row-gap: 8px;
+        margin-top: 3px;
+    }
+
+
+}
