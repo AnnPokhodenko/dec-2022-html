@@ -1,8 +1,14 @@
-body {
+body{
+    margin: 0;
+}
+
+#large {
+    height: 753px;
+    width: 1536px;
     background: #08bcd4;
     display: flex;
     justify-content: center;
-    margin-top: 100px;
+    align-items: center;
 }
 
 #container {

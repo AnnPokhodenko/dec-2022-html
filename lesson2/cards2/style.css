@@ -1,7 +1,9 @@
-body {
+#large {
+    height: 660px;
+    width: 1500px;
     display: flex;
     justify-content: center;
-    margin-top: 145px;
+    align-items: center;
 }
 
 #container {

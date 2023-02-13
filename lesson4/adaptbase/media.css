@@ -1,5 +1,5 @@
 @media screen and (max-width: 424px) {
-    #container {
+        #container {
         width: 200px;
     }
 
@@ -23,7 +23,7 @@
         border-radius: 5px;
     }
 
-    .A, .right, .box {
+    .a, .right, .box {
         height: 18px;
         padding-top: 2px;
     }
@@ -35,13 +35,13 @@
 
     }
 
-    .B {
+    .b {
         height: 70px;
         padding-top: 28px;
         margin-top: 3px;
     }
 
-    .sec, .H {
+    .sec, .h {
         height: 43px;
         padding-top: 15px;
     }

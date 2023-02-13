@@ -1,9 +1,7 @@
-#large{
-    height: 1120px;
-    width: 1500px;
+body{
     display: flex;
     justify-content: center;
-    align-items: center;
+    margin-top: 50px;
 }
 
 #container {
@@ -44,7 +42,7 @@
     color: grey;
 }
 
-.A, .sec{
+.a, .sec{
     padding-top: 31px;
     margin-bottom: 5px;
 }
@@ -62,7 +60,7 @@
     column-gap: 5px;
 }
 
-.B, .right {
+.b, .right {
     padding-top: 72px;
 }
 

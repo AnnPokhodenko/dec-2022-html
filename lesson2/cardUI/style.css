@@ -1,11 +1,17 @@
 body {
+    margin: 0;
+}
+
+#large {
+    height: 753px;
+    width: 1536px;
     background: #35cd9f;
     display: flex;
     justify-content: center;
-    margin-top: 125px;
+    align-items: center;
 }
 
-#container{
+#container {
     height: 500px;
     width: 900px;
     display: flex;
@@ -15,14 +21,14 @@ body {
     row-gap: 3px;
 }
 
-#cards{
+#cards {
     width: 910px;
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
 
-.card{
+.card {
     background: #162029;
     height: 356px;
     width: 274px;
@@ -35,30 +41,30 @@ body {
     row-gap: 10px;
 }
 
-i{
+i {
     color: #35cba1;
     font-size: xxx-large;
 }
 
-.text{
+.text {
     color: #fcfcfc;
     text-align: center;
     margin: 10px 0;
 }
 
-img{
-    height:60px;
+img {
+    height: 60px;
     width: 60px;
     border-radius: 50%;
 }
 
-.name{
+.name {
     color: #7ac7b4;
     font-size: small;
     margin-bottom: 10px;
 }
 
-#title{
+#title {
     font-size: xxx-large;
     margin-top: 15px;
 }
